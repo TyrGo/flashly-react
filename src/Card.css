@@ -1,0 +1,30 @@
+.card-cont {
+    position: absolute;
+    text-align: center;
+    left: 35%; right: 35%;
+    margin-top: 10%;
+    padding: 2%;
+    padding-top: 3%;
+    background-color: rgb(50, 88, 158);
+    color: white;
+    border-radius: 1%/2%;
+}
+
+.display {
+    padding: 2%;
+    margin: 5%;
+    background-color: white;
+    color: rgb(50, 88, 158);
+}
+
+.btn {
+    margin: 2%;
+    background-color: white!important;
+    color: rgb(50, 88, 158) !important;  
+}
+
+.btns {
+    display: flex;
+    justify-content: space-between;
+    margin: 3%;
+}

@@ -1,0 +1,4 @@
+.cards-admin {
+    display: flex;
+    flex-wrap: wrap !important;
+}

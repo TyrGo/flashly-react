@@ -1,0 +1,15 @@
+.nav {
+    background-color: rgb(50, 88, 158);
+    width: 100%;
+}
+
+a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+a.active {
+    font-weight: bold;
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}

@@ -1,0 +1,17 @@
+.card-details {
+    padding: 4%;
+    background-color: rgb(50, 88, 158);
+    color: white;
+    border-radius: 1%/2%;
+    width: 40%;
+    margin: 3%;
+}
+
+.title {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    padding-bottom: 5%;
+}

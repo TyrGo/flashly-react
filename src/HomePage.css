@@ -1,0 +1,10 @@
+.welcome {
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left: 10%; right: 10%;
+    padding-top: 4%;
+    background-color: rgb(50, 88, 158);
+    color: white;
+    border-radius: 1%/6%;
+}
